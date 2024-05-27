@@ -1,16 +1,65 @@
-# web_service
 
-A new Flutter project.
+# Flutter Web Service
 
-## Getting Started
+![Cuplikan layar 2024-05-27 135210](https://github.com/Shevabey/flutter_webservice/assets/120761224/19f04407-bc40-4cc2-ba3d-b5ece075ae69)
+![image](https://github.com/Shevabey/flutter_webservice/assets/120761224/5cdbc53d-423b-4d5b-9ed5-f16526291b11)
+![Cuplikan layar 2024-05-27 135230](https://github.com/Shevabey/flutter_webservice/assets/120761224/0b067b79-297e-45bc-a9c4-9ba6caa72550)
 
-This project is a starting point for a Flutter application.
+## Documentation
 
-A few resources to get you started if this is your first Flutter project:
+[Fetch data from the internet](https://docs.flutter.dev/cookbook/networking/fetch-data)  
+[Quicktype](https://app.quicktype.io/)  
+[Display the data](https://docs.flutter.dev/cookbook/networking/fetch-data#5-display-the-data)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+
+Clone repositorie
+```bash
+git clone https://github.com/Shevabey/flutter_webservice.git
+
+```
+Go to the project folder
+```bash
+cd flutter_webservice
+
+```
+install dependencies
+```bash
+dart pub get
+```
+
+    
+## Feedback
+
+If you have any feedback, please reach out to us at shevabeyrahman@gmail.com
+
+
+## API Reference
+
+#### Get all items
+
+```
+  https://jsonplaceholder.typicode.com/todos?_start=0&_limit=10
+```
+
+
+
+## Tech Stack
+
+**Client:** Dart, Flutter
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
