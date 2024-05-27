@@ -37,7 +37,7 @@ class HomePage extends StatelessWidget {
         child: Column(
           children: [
             ListTile(
-              leading: Icon(Icons.check, color: Colors.blueAccent),
+              leading: const Icon(Icons.check, color: Colors.blueAccent),
               title: const Text('Home'),
               onTap: () {
                 Navigator.pushReplacement(
