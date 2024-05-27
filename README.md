@@ -1,9 +1,9 @@
 
 # Flutter Web Service
 
-![Cuplikan layar 2024-05-27 135210](https://github.com/Shevabey/flutter_webservice/assets/120761224/19f04407-bc40-4cc2-ba3d-b5ece075ae69)
-![image](https://github.com/Shevabey/flutter_webservice/assets/120761224/5cdbc53d-423b-4d5b-9ed5-f16526291b11)
-![Cuplikan layar 2024-05-27 135230](https://github.com/Shevabey/flutter_webservice/assets/120761224/0b067b79-297e-45bc-a9c4-9ba6caa72550)
+![Cuplikan layar 2024-05-27 135210](https://github.com/Shevabey/flutter_webservice/assets/120761224/19f04407-bc40-4cc2-ba3d-b5ece075ae69) ![Cuplikan layar 2024-05-27 135230](https://github.com/Shevabey/flutter_webservice/assets/120761224/0b067b79-297e-45bc-a9c4-9ba6caa72550)
+
+
 
 ## Documentation
 
@@ -54,9 +54,10 @@ If you have any feedback, please reach out to us at shevabeyrahman@gmail.com
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shevabeyrahman.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shevabeyrhmn/)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shevabey_rhmn/)
+
 
 
 ## Lessons Learned
