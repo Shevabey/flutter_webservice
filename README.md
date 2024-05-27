@@ -31,11 +31,6 @@ dart pub get
 ```
 
     
-## Feedback
-
-If you have any feedback, please reach out to us at shevabeyrahman@gmail.com
-
-
 ## API Reference
 
 #### Get all items
@@ -58,6 +53,10 @@ If you have any feedback, please reach out to us at shevabeyrahman@gmail.com
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shevabeyrhmn/)
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shevabey_rhmn/)
 
+
+## Feedback
+
+If you have any feedback, please reach out to us at shevabeyrahman@gmail.com
 
 
 ## Lessons Learned
